@@ -3,10 +3,10 @@
     "result" : {
       "textSpacing" : 8,
       "subtext" : {
-        "size" : 12,
+        "size" : 11,
         "colorSelected" : "#A5AACDFF",
         "font" : "System Light",
-        "color" : "#676C96FF"
+        "color" : "#676C96B3"
       },
       "shortcut" : {
         "size" : 14,
@@ -14,48 +14,48 @@
         "font" : "System",
         "color" : "#C78EECFF"
       },
-      "backgroundSelected" : "#4E537966",
+      "backgroundSelected" : "#4E53797F",
       "text" : {
-        "size" : 18,
+        "size" : 20,
         "colorSelected" : "#C1E987FF",
-        "font" : "System",
-        "color" : "#A6AACDFF"
+        "font" : "System Light",
+        "color" : "#A6AACDCC"
       },
       "iconPaddingHorizontal" : 10,
       "paddingVertical" : 10,
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 2,
+      "paddingVertical" : 5,
       "background" : "#1B1E2A00",
       "spacing" : 10,
       "text" : {
         "size" : 32,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#FEFFFDFF",
         "font" : "System",
         "color" : "#FEFFFEFF"
       },
-      "backgroundSelected" : "#00B0E9FF"
+      "backgroundSelected" : "#C1E9817F"
     },
     "window" : {
       "color" : "#272B3DEA",
-      "paddingHorizontal" : 0,
-      "width" : 780,
+      "paddingHorizontal" : 10,
+      "width" : 620,
       "borderPadding" : 0,
       "borderColor" : "#00000000",
       "blur" : 40,
-      "roundness" : 8,
+      "roundness" : 3,
       "paddingVertical" : 10
     },
-    "credit" : "Doug C. Hardester",
+    "credit" : "Doug C. Hardester (r3volution11)",
     "separator" : {
-      "color" : "#3A3E5700",
-      "thickness" : 2
+      "color" : "#3A3E5740",
+      "thickness" : 1
     },
     "scrollbar" : {
       "color" : "#656C9680",
-      "thickness" : 6
+      "thickness" : 5
     },
-    "name" : "Material Palenight"
+    "name" : "Material Palenight @cvgellhorn"
   }
 }
