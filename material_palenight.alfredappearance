@@ -47,7 +47,7 @@
       "roundness" : 3,
       "paddingVertical" : 10
     },
-    "credit" : "Doug C. Hardester (r3volution11)",
+    "credit" : "Christoph von Gellhorn",
     "separator" : {
       "color" : "#3A3E5740",
       "thickness" : 1
@@ -56,6 +56,6 @@
       "color" : "#656C9680",
       "thickness" : 5
     },
-    "name" : "Material Palenight @cvgellhorn"
+    "name" : "Material Palenight"
   }
 }
